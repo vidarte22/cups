@@ -36,5 +36,7 @@ int main(int argc, char** argv) {
     resultadoentero = (int)flotante2 / (int)flotante1;
     printf ("\n resultado de la div de flotantes mostrado en entero:%d", resultadoentero);
     return (EXIT_SUCCESS);
+    
+    //fghfghfgutjfhy
 }
 
